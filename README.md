@@ -6,4 +6,3 @@ which uses auto-regression and moving average to predict
 regression values.
 The performance was also compared with an LSTM model and Random Forest Regressor(see stock prediction.ipynb).
 
-
